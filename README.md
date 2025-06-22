@@ -5,4 +5,4 @@
 
 
 
-Monitoring using Prometheus and Plotting using Graphana 
+Monitoring System Info using Prometheus and node exporter, the real-time data collected is being plotted using Graphana 
